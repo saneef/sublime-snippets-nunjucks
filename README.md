@@ -3,6 +3,8 @@ Snippets are an incredibly powerful way to quickly generate commonly needed code
 
 The idea is that you can type something like `variable` and then press the <kbd>Tab</kbd> key and it will expand into `{{ variable }}`.
 
+You can see all available snippets in [the snippets readme](https://github.com/whatterz/sublime-language-nunjucks/blob/master/snippets/README.md).
+
 ## Requirements
 - [Sublime Text](https://www.sublimetext.com/)
 
