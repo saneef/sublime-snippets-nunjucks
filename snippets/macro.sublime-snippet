@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[
+{% macro ${1:name}(${2:args}) %}
+	$3
+{% endmacro %}$4
+]]></content>
+	<!-- Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>macro</tabTrigger>
+	<!-- Set a scope to limit where the snippet will trigger -->
+	<scope>text.html.nunjucks</scope>
+	<!-- Description to show in the menu -->
+	<desciption>Macro – Nunjucks</desciption>
+</snippet>

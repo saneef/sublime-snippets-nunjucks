@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+| ${1:filter}
+]]></content>
+	<!-- Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>pipe</tabTrigger>
+	<!-- Set a scope to limit where the snippet will trigger -->
+	<scope>text.html.nunjucks</scope>
+	<!-- Description to show in the menu -->
+	<desciption>Pipe filter – Nunjucks</desciption>
+</snippet>

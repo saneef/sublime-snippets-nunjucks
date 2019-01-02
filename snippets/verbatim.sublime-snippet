@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[
+{% verbatim %}
+	$1
+{% endverbatim %}$2
+]]></content>
+	<!-- Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>verbatim</tabTrigger>
+	<!-- Set a scope to limit where the snippet will trigger -->
+	<scope>text.html.nunjucks</scope>
+	<!-- Description to show in the menu -->
+	<desciption>Verbatim – Nunjucks</desciption>
+</snippet>

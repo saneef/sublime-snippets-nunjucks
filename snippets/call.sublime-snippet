@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[
+{% call ${1:macro} %}
+	$2
+{% endcall %}$3
+]]></content>
+	<!-- Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>call</tabTrigger>
+	<!-- Set a scope to limit where the snippet will trigger -->
+	<scope>text.html.nunjucks</scope>
+	<!-- Description to show in the menu -->
+	<desciption>Call – Nunjucks</desciption>
+</snippet>
