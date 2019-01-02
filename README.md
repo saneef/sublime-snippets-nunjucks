@@ -1,7 +1,7 @@
 # Nunjucks snippets for Sublime Text
 Snippets are an incredibly powerful way to quickly generate commonly needed code syntax from a shortcut.
 
-The idea is that you can type something like `var` and then press the <kbd>Tab</kbd> key and it will expand into `{{ variable }}`.
+The idea is that you can type something like `variable` and then press the <kbd>Tab</kbd> key and it will expand into `{{ variable }}`.
 
 ## Requirements
 - [Sublime Text](https://www.sublimetext.com/)
