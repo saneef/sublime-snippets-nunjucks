@@ -33,7 +33,7 @@ If you’ve got an idea or suggestion you can:
 * [Create a GitHub issue](https://github.com/whatterz/sublime-language-nunjucks/issues).
 
 ## Related
-- [Nunjucks snippets for Atom](https://github.com/whatterz/sublime-language-nunjucks)
+- [Nunjucks snippets for Atom](https://github.com/whatterz/atom-language-nunjucks)
 
 ## Licence
 Unless otherwise stated, this codebase is released under the [MIT License](https://github.com/whatterz/sublime-language-nunjucks/blob/master/LICENSE). This covers both the codebase and any sample code in the documentation.
