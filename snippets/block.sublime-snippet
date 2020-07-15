@@ -7,7 +7,7 @@
 	<!-- Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>block</tabTrigger>
 	<!-- Set a scope to limit where the snippet will trigger -->
-	<scope>text.html.nunjucks</scope>
+	<scope>text.html</scope>
 	<!-- Description to show in the menu -->
 	<desciption>Block – Nunjucks</desciption>
 </snippet>

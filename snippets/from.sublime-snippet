@@ -5,7 +5,7 @@
 	<!-- Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>from</tabTrigger>
 	<!-- Set a scope to limit where the snippet will trigger -->
-	<scope>text.html.nunjucks</scope>
+	<scope>text.html</scope>
 	<!-- Description to show in the menu -->
 	<desciption>From import – Nunjucks</desciption>
 </snippet>
